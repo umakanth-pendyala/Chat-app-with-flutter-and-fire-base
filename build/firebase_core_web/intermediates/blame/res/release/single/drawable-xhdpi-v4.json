@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/umakanth/Desktop/APP DEVELOPMENT/flash-chat-flutter/build/firebase_core_web/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/umakanth/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/umakanth/Desktop/APP DEVELOPMENT/flash-chat-flutter/build/firebase_core_web/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/umakanth/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/umakanth/Desktop/APP DEVELOPMENT/flash-chat-flutter/build/firebase_core_web/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/umakanth/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/umakanth/Desktop/APP DEVELOPMENT/flash-chat-flutter/build/firebase_core_web/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/umakanth/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/umakanth/Desktop/APP DEVELOPMENT/flash-chat-flutter/build/firebase_core_web/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/umakanth/.gradle/caches/transforms-2/files-2.1/331630a23dfa1f0594bcf54d5352aa36/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]
